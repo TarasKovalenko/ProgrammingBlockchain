@@ -24,7 +24,7 @@ If you are reading this book with GitBook, you can also create a quick inline co
 1. Find [the book on GitHub](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 2. Fork
 3. Clone your fork
-4. Download and install [GitBook Editor](https://www.gitbook.com/editor)
+4. Download and install [GitBook Editor](https://legacy.gitbook.com/editor)
 5. Open GitBook Editor
 6. Select "Import" and select the folder where you cloned your fork
 7. Edit book
@@ -58,6 +58,6 @@ For every donation on this address, you will appear on [http://n.bitcoin.ninja/]
 ## Links
 
 [The book on GitHub](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)  
-[The book on GitBook](https://www.gitbook.com/book/programmingblockchain/programmingblockchain) (you can download pdf, epub and mobi versions here.)  
+[The book on GitBook](https://www.gitbook.com/book/programmingblockchain/programmingblockchain)
 [Code examples on GitHub](https://github.com/ProgrammingBlockchain/ProgrammingBlockchainCodeExamples/)  
 [Hall of the Makers](http://n.bitcoin.ninja/) (here are the true makers: those that succeeded in completing the challenges of this book.)

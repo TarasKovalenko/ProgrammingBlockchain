@@ -3,7 +3,7 @@
 Before we begin with the instruction, we should describe how we expect your projects to be set up.
 
 1.  Create a new Console Application Project in Visual Studio (.NET 4.5.2 or higher)
-2.  Right click on “Dependencies” in Solution Explorer and select “Manage NuGet Packages…”
+2.  Right click on the project in Solution Explorer and select “Manage NuGet Packages…”
 3.  Search for “**NBitcoin”** and install it (or NBitcoin.Mono on MAC and Linux.)
 ![](../assets/nuget.png)  
 
@@ -13,7 +13,7 @@ NBitcoin is the .NET Bitcoin library, it is open-source and maintained by Nicola
 This library should always be included if you do anything Bitcoin related in C#.  
 NBitcoin supports cross-platform applications.  
 
-### ## # How to debug into NBitcoin source code (optional)  
+## How to debug into NBitcoin source code (optional)  
 
 NBitcoin lets you debug into its code to make your life easier. For this feature to work make sure you have source server support enabled in Visual Studio (Tools/Options).   
 ![](../assets/visualstudio_enablesourceserversupport.png)  
